@@ -4,7 +4,7 @@ import ContactForm from "./components/ContactForm/ContactForm";
 import { ContactList } from "./components/ContactList/ContactList";
 import { Filter } from "./components/Filter/Filter";
 import { PhonebookMainTitleStyled, PhonebookTitleStyled } from "./App.styled";
-import { saveContact, loadContact } from "utils/localStorage";
+import { saveContact, loadContact } from "Utils/localStorage";
 
 const LS_KEY = "saved-phonebook-contacts";
 
