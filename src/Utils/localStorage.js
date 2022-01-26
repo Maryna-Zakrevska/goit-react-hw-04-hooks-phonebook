@@ -17,4 +17,4 @@ const loadContact = (key) => {
   }
 };
 
-export {saveContact,loadContact};
+export { saveContact, loadContact };
